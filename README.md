@@ -5,7 +5,7 @@ Accept Internet Banking Payment using Billplz
 # Installation
 
 1. Download Plugin: https://codeload.github.com/wzul/Billplz-for-JobEngine/zip/master
-2. Open the archive and remove everything except folder "**billplz-for-jobengine**"
+2. Open the archive and remove **everything** except folder "**billplz-for-jobengine**"
 3. Upload & Install & Activate this plugin to your WordPress
 4. Go to WordPress Dashboard >> Engine Settings >> Settings >> Payment
   * Currency => **MYR**
