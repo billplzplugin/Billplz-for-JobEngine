@@ -18,6 +18,8 @@ Accept Internet Banking Payment using Billplz
 
 http://docs.enginethemes.com/article/354-adding-currency
 
+* Note: Currency code must be **MYR**
+
 # Compatibility
 
 1. Compatible with PHP 7 (tested)
