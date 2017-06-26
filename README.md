@@ -33,10 +33,6 @@ Please open through Issues tab
 * Facebook: http://www.facebook.com/billplzplugin
 * Email: support@wanzul-hosting.com
 
-# Hosting
-
-Get cheap and affordable web hosting (RM39.99/year), only at www.wanzul-hosting.com
-
 # Supoprt us by Donation
 
 www.wanzul.net/donate
